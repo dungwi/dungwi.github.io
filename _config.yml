@@ -1,15 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: LEE-CHUNGWI
+title: Chungwi's | A blog theme for Chungwi's
+description: This is the Chungwi's first Blog 
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -19,18 +18,19 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: dungwi@gmail.com
+# disqus_username: disqus_username
+paginate : 12
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: dungwi
+#facebook_username: # facebook_username
+#twitter_username: # twitter_username
+#instagram_username: # instagram_username
+#linkedin_username: # linkedin_username
+#medium_username: # medium_username
 
 
 # Posts Settings
@@ -44,7 +44,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "kr"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -101,4 +101,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+# version: v3.1.0

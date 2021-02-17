@@ -1,14 +1,13 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: LEE-CHUNGWI
+title: Chungwi's | A blog theme for Chungwi's
+description: This is the Chungwi's first Blog 
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -18,5 +17,6 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: dungwi@gmail.com
+# disqus_username: disqus_username
+paginate : 12
